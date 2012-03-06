@@ -1,0 +1,28 @@
+Mar 06 11:34:09 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Mar 06 11:34:09 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 06 11:34:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 06 11:34:09 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Mar 06 11:34:09 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\VDM_Project_LicencePro\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Mar 06 11:34:09 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\VDM_Project_LicencePro\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Mar 06 11:34:09 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\VDM_Project_LicencePro\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Mar 06 11:34:09 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 06 11:34:09 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 06 11:34:09 symfony [info] {sfWebDebugLogger} Configuration 212.73 ms (9)
+Mar 06 11:34:09 symfony [info] {sfWebDebugLogger} Factories 133.76 ms (1)
+Mar 06 11:34:09 symfony [info] {sfWebDebugLogger} Action "default/index" 0.24 ms (1)
+Mar 06 11:34:09 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 26.55 ms (1)
+Mar 06 11:34:09 symfony [info] {sfWebResponse} Send content (30090 o)
+Mar 06 11:38:03 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Mar 06 11:38:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 06 11:38:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 06 11:38:03 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Mar 06 11:38:03 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\VDM_Project_LicencePro\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Mar 06 11:38:03 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\VDM_Project_LicencePro\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Mar 06 11:38:03 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\VDM_Project_LicencePro\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Mar 06 11:38:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 06 11:38:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 06 11:38:03 symfony [info] {sfWebDebugLogger} Configuration 157.92 ms (10)
+Mar 06 11:38:03 symfony [info] {sfWebDebugLogger} Factories 57.69 ms (1)
+Mar 06 11:38:03 symfony [info] {sfWebDebugLogger} Action "default/index" 0.39 ms (1)
+Mar 06 11:38:03 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 33.46 ms (1)
+Mar 06 11:38:03 symfony [info] {sfWebResponse} Send content (30314 o)
